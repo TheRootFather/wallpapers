@@ -1,7 +1,7 @@
 # wallpapers
 A collection of copyright-free wallpaper
 
-![The Linux Way](TheLinuxWay.jpg "wallpaper")
+![The Linux Way](TheLinuxWay.png "wallpaper")
 
 ![cat_forest](cat_forest.jpg "wallpaper")
 
