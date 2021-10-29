@@ -5,6 +5,6 @@ A collection of copyright-free wallpaper
 
 ![cat_forest](cat_forest.jpg "wallpaper")
 
-![samurai](samurai.jpg "wallpaper")
+![samurai](samurai.png "wallpaper")
 
 ![car](car.jpg "wallpaper")
