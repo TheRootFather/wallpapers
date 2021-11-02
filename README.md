@@ -1,4 +1,4 @@
-# wallpapers
+# RootFather Wallpapers
 
 A collection of copyright-free wallpaper
 
@@ -17,6 +17,8 @@ mv wallpapers/*.jpg ~/Pictures/wallpapers
 mv wallpapers/*.png ~/Pictures/wallpapers
 rm -rf wallpapers/
 ```
+
+## Wallpapers
 
 ![The Linux Way](TheLinuxWay.png "wallpaper")
 
