@@ -6,7 +6,7 @@ A collection of copyright-free wallpaper
 
 ## Quick install
 
-Quickly download these wallpapers into your Pictures/wallpapers folder
+Quickly download these wallpapers into your <code>Pictures/wallpapers</code> folder
 
 ```bash
 git clone https://github.com/TheRootFather/wallpapers
