@@ -27,3 +27,5 @@ rm -rf wallpapers/
 ![samurai](samurai.png "wallpaper")
 
 ![car](car.jpg "wallpaper")
+
+![space](space.png "wallpaper")
