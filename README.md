@@ -29,3 +29,5 @@ rm -rf wallpapers/
 ![car](car.jpg "wallpaper")
 
 ![space](space.png "wallpaper")
+
+![koolkat](koolkat.png "wallpaper")
